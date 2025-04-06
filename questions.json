@@ -1,0 +1,247 @@
+{
+    "G1": {
+        "title": "Communication",
+        "questions": {
+            "Q1": {
+                "text": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+                "default": "Oui",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "Avez-vous une politique de communication ?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "Avez-vous des objectifs de communication?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "Avez-vous un plan de communication ?",
+                "default": "Non",
+                "coef": 8.0
+            },
+            "Q5": {
+                "text": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+                "default": "Oui",
+                "coef": 1.0
+            },
+            "Q6": {
+                "text": "Avez-vous des supports clés de communication ex: Carte visite",
+                "default": "Oui",
+                "coef": 1.0
+            },
+            "Q7": {
+                "text": "Avez-vous des supports clés de communication ex: brochers",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q8": {
+                "text": "Avez-vous des supports clés de communication ex: flyers",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q9": {
+                "text": "Avez-vous des comptes dans les sociales médias ?",
+                "default": "Non",
+                "coef": 1.0
+            }
+        }
+    },
+    "G2": {
+        "title": "La politique de marque",
+        "questions": {
+            "Q1": {
+                "text": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l’esprit des consommateurs ?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "Avez-vous chosiez un Logo Flexible qui'il peut s’adapter et être lisible sur tous les supports?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q5": {
+                "text": "Est-ce que votre Logo est Logo durable ?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q6": {
+                "text": "Est-ce que votre Logo est mémorisable facile de s’en souvenir, de le reconnaître, et de l’associer à la coopérative?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q7": {
+                "text": "Avez-vous chosiez une couleur de logo fraiche symbolique de la nature, l’environnement et le bio?",
+                "default": "Non",
+                "coef": 1.0
+            }
+        }
+    },
+    "G3": {
+        "title": "Le conditionnement & létiquette",
+        "questions": {
+            "Q1": {
+                "text": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "Avez-vous chosiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "Avez-vous chosiez Le conditionnement de votre produit pour faciliter l’utilisation d’un produit",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protèger le produit",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q5": {
+                "text": "Avez-vous chosiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q6": {
+                "text": "Avez-vous chosiez la carte d'identité du produit ce form d’étiquète?",
+                "default": "Oui",
+                "coef": 1.0
+            },
+            "Q7": {
+                "text": "Est ce que L’étiquète de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q8": {
+                "text": "Avez-vous chosiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q9": {
+                "text": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+                "default": "Non",
+                "coef": 1.0
+            }
+        }
+    },
+    "G4": {
+        "title": "L’emballage",
+        "questions": {
+            "Q1": {
+                "text": "Avez-vous un emballage pour votre produit?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "votre embalage est il adapte a la livraison",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "votre embalage repond t il au norme de qualite",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "votre embalage comporte t il une fermeture de garantie",
+                "default": "Oui",
+                "coef": 1.0
+            }
+        }
+    },
+    "G5": {
+        "title": "La politique du prix",
+        "questions": {
+            "Q1": {
+                "text": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q5": {
+                "text": "Avez-vous prendre en considération le pouvoir d’achat des gens du village et les gens étrangers pour?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q6": {
+                "text": "Est ce que vous prendre en considération l’augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA…)?",
+                "default": "Non",
+                "coef": 1.0
+            }
+        }
+    },
+    "G6": {
+        "title": "Les promotions & Distribution",
+        "questions": {
+            "Q1": {
+                "text": "Est ce que vous faite des réductions pour les clients fidèles?",
+                "default": "Oui",
+                "coef": 1.0
+            },
+            "Q2": {
+                "text": "Est que vous faite des réduction pour le client qui a achète 3 articles ou plus?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q3": {
+                "text": "est ce que vous avez des carte fidelite",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q4": {
+                "text": "est ce que vous proposer des cadeau pour vos clients",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q5": {
+                "text": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q6": {
+                "text": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q7": {
+                "text": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+                "default": "Non",
+                "coef": 1.0
+            },
+            "Q8": {
+                "text": "Est-ce que vous pensez a augmenter la part de marche par d’ajouter différant produits?",
+                "default": "Oui",
+                "coef": 1.0
+            }
+        }
+    }
+}

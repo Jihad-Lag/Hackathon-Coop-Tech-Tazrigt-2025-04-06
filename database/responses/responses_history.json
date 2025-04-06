@@ -1,0 +1,2622 @@
+[
+    {
+        "date": "2025-04-05T21:11:10.216777",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "groupe1",
+        "group_title": "Stratégie Marketing",
+        "question": "Avez-vous une stratégie marketing documentée ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:11:10.223983",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "groupe1",
+        "group_title": "Stratégie Marketing",
+        "question": "Utilisez-vous les réseaux sociaux pour votre marketing ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:11:13.904630",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "groupe2",
+        "group_title": "Communication Client",
+        "question": "Avez-vous un système de newsletter ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:11:13.920496",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "groupe2",
+        "group_title": "Communication Client",
+        "question": "Mesurez-vous la satisfaction client ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.377710",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.404714",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.457720",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.462725",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.468664",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.468664",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.494012",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.501673",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:22.501748",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.577468",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.583575",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.606948",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.614207",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.620368",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.627373",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:24.633504",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.355731",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.361732",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.389493",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.408029",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.423636",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.425317",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.440339",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.472671",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:27.479668",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:30.359053",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:30.366055",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:30.375054",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:30.403363",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:32.974619",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:32.980618",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:32.986616",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:33.002365",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:33.026765",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:33.036351",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.367310",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.374310",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.399035",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.399035",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.419803",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.423250",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.435385",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:15:35.448096",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.003002",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.009272",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.025029",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.040501",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.047509",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.058066",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.058066",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.058066",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:19:59.092349",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:11.996464",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.002452",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.010884",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.017504",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.021667",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.037000",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:12.037000",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.586537",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.595539",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.608942",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.619619",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.619619",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.636785",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.642122",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.642122",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:22.657750",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:30.657818",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:30.680665",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:30.699256",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:30.699256",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.839071",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.846043",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.855045",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.862447",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.862447",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:38.878296",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.762373",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.768378",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.775258",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.782259",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.797637",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.799050",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Non",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.811921",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:20:44.826899",
+        "username": "admin",
+        "client_name": "saad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.395325",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.404849",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.410849",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.456824",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.461824",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.466822",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.473565",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.473565",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:46.489822",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.249109",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.256111",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.263109",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.269392",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.277867",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.287275",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:48.295968",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.594456",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.600456",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.612462",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.619149",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.628933",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.641734",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.642192",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.658206",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:50.658206",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:51.905218",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:51.911241",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:51.917686",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:51.923943",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.163207",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.169087",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.171900",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.185297",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.201027",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:54.201027",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.160565",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.164566",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.171574",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.182901",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.189022",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.195026",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.208200",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T21:26:56.218954",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.485464",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.504809",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.572713",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.586043",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.598737",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.606960",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.612990",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.639237",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:38.645758",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:39.986186",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:39.992873",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:40.011802",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:40.019471",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:40.026512",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:40.033499",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:40.039043",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.220185",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.226762",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.243519",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.256344",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.322181",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.328636",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.335777",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.342101",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:43.348707",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:44.881028",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:44.888164",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:44.901318",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:44.910268",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.628881",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.634727",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.647432",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.654303",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.665055",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:47.674932",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.591597",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.598965",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.609630",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.616321",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.622538",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.632610",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.643121",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:24:50.661487",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.321430",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.347143",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.408092",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.408092",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.408092",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.433526",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.441765",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.448023",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.478416",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.749814",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.757699",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.790688",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.790688",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.808655",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.814652",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:05.818569",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.554316",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.560325",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.570982",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.589783",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.595779",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.602779",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.609176",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.612287",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:06.631108",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:08.249936",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:08.256932",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:08.297622",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:08.307290",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.533800",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.540197",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.540197",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.573770",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.593165",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:10.599166",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.869016",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.877017",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.887786",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.903291",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.909523",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.910198",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.922899",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-05T22:39:12.928901",
+        "username": "admin",
+        "client_name": "jihad",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.314436",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.320435",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.335456",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.385460",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.392432",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.397437",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.402440",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.407436",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:17.413435",
+        "username": "admin",
+        "client_name": "12",
+        "group": "communication",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.339430",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.343430",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.349443",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.358428",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.364430",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.371432",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:25.380430",
+        "username": "admin",
+        "client_name": "12",
+        "group": "marque",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.129827",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.134853",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.140828",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.153826",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.159824",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.168831",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.176835",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.184831",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:29.193824",
+        "username": "admin",
+        "client_name": "12",
+        "group": "conditionnement",
+        "group_title": "Le conditionnement & l'étiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:30.341029",
+        "username": "admin",
+        "client_name": "12",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:30.347029",
+        "username": "admin",
+        "client_name": "12",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage est il adapte a la livraison",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:30.353032",
+        "username": "admin",
+        "client_name": "12",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage répond t il au norme de qualite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:30.390031",
+        "username": "admin",
+        "client_name": "12",
+        "group": "emballage",
+        "group_title": "L'emballage",
+        "question": "votre emballage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.158284",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.164285",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.205040",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.211042",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.221898",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:32.226898",
+        "username": "admin",
+        "client_name": "12",
+        "group": "prix",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.713828",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.719824",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.725824",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.748827",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.757826",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.764822",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.772851",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Oui",
+        "comment": ""
+    },
+    {
+        "date": "2025-04-06T07:38:34.780829",
+        "username": "admin",
+        "client_name": "12",
+        "group": "promotions",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?",
+        "response": "Oui",
+        "comment": ""
+    }
+]

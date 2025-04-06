@@ -1,0 +1,173 @@
+[
+    {
+        "key": "communication",
+        "title": "Communication",
+        "description": "Questions sur la communication et les supports marketing",
+        "questions": [
+            {
+                "text": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?"
+            },
+            {
+                "text": "Avez-vous une politique de communication ?"
+            },
+            {
+                "text": "Avez-vous des objectifs de communication?"
+            },
+            {
+                "text": "Avez-vous un plan de communication ?"
+            },
+            {
+                "text": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?"
+            },
+            {
+                "text": "Avez-vous des supports clés de communication ex: Carte visite"
+            },
+            {
+                "text": "Avez-vous des supports clés de communication ex: brochers"
+            },
+            {
+                "text": "Avez-vous des supports clés de communication ex: flyers"
+            },
+            {
+                "text": "Avez-vous des comptes dans les sociales médias ?"
+            }
+        ]
+    },
+    {
+        "key": "marque",
+        "title": "La politique de marque",
+        "description": "Questions sur l'identité visuelle et la marque",
+        "questions": [
+            {
+                "text": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l'esprit des consommateurs ?"
+            },
+            {
+                "text": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?"
+            },
+            {
+                "text": "Avez-vous choisiez un Logo Flexible qui' il peut s'adapter et être lisible sur tous les supports?"
+            },
+            {
+                "text": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?"
+            },
+            {
+                "text": "Est-ce que votre Logo est Logo durable ?"
+            },
+            {
+                "text": "Est-ce que votre Logo est mémorisable facile de s'en souvenir, de le reconnaître, et de l'associer à la coopérative?"
+            },
+            {
+                "text": "Avez-vous choisiez une couleur de logo fraiche symbolique de la nature, l'environnement et le bio?"
+            }
+        ]
+    },
+    {
+        "key": "conditionnement",
+        "title": "Le conditionnement & l'étiquette",
+        "description": "Questions sur le conditionnement et l'étiquetage des produits",
+        "questions": [
+            {
+                "text": "Est ce que le conditionnement de votre produit permet de Protège le produit)"
+            },
+            {
+                "text": "Avez-vous choisiez Le conditionnement de votre produit pour Faciliter le transport du produit"
+            },
+            {
+                "text": "Avez-vous choisiez Le conditionnement de votre produit pour faciliter l'utilisation d'un produit"
+            },
+            {
+                "text": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protéger le produit"
+            },
+            {
+                "text": "Avez-vous choisiez Le conditionnement de votre produit pour mémorise le logo et marque du produit"
+            },
+            {
+                "text": "Avez-vous choisiez la carte d'identité du produit ce form d'étiquete?"
+            },
+            {
+                "text": "Est ce que L'étiquette de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?"
+            },
+            {
+                "text": "Avez-vous choisiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants"
+            },
+            {
+                "text": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?"
+            }
+        ]
+    },
+    {
+        "key": "emballage",
+        "title": "L'emballage",
+        "description": "Questions sur l'emballage des produits",
+        "questions": [
+            {
+                "text": "Avez-vous un emballage pour votre produit?"
+            },
+            {
+                "text": "votre emballage est il adapte a la livraison"
+            },
+            {
+                "text": "votre emballage répond t il au norme de qualite"
+            },
+            {
+                "text": "votre emballage comporte t il une fermeture de garantie"
+            }
+        ]
+    },
+    {
+        "key": "prix",
+        "title": "La politique du prix",
+        "description": "Questions sur la politique de prix",
+        "questions": [
+            {
+                "text": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques"
+            },
+            {
+                "text": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses"
+            },
+            {
+                "text": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente."
+            },
+            {
+                "text": "Est que vous essayer d'identifier le prix convenable pour chaque cible"
+            },
+            {
+                "text": "Avez-vous prendre en considération le pouvoir d'achat des gens du village et les gens étrangers pour?"
+            },
+            {
+                "text": "Est ce que vous prendre en considération l'augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA...)?"
+            }
+        ]
+    },
+    {
+        "key": "promotions",
+        "title": "Les promotions & Distribution",
+        "description": "Questions sur les promotions et la distribution",
+        "questions": [
+            {
+                "text": "Est ce que vous faite des réductions pour les clients fidèles?"
+            },
+            {
+                "text": "Est que vous faite des réduction pour le client qui a acheté 3 articles ou plus?"
+            },
+            {
+                "text": "est ce que vous avez des carte fidelite"
+            },
+            {
+                "text": "est ce que vous proposer des cadeau pour vos clients"
+            },
+            {
+                "text": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?"
+            },
+            {
+                "text": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?"
+            },
+            {
+                "text": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?"
+            },
+            {
+                "text": "Est-ce que vous pensez a augmenter la part de marche par d'ajouter différant produits?"
+            }
+        ]
+    }
+] 

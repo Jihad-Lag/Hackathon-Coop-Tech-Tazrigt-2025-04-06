@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2025-04-05T20:14:25.005160",
+        "filename": "backup_20250405_201425.zip",
+        "size": 605,
+        "path": "database/backups\\backup_20250405_201425.zip",
+        "created_by": "admin"
+    },
+    {
+        "date": "2025-04-05T21:18:50.170693",
+        "filename": "backup_20250405_211850.zip",
+        "size": 4295,
+        "path": "database/backups\\backup_20250405_211850.zip",
+        "created_by": "admin"
+    },
+    {
+        "date": "2025-04-06T11:23:30.732445",
+        "filename": "backup_20250406_112330.zip",
+        "size": 6760,
+        "path": "database/backups\\backup_20250406_112330.zip",
+        "created_by": "admin"
+    },
+    {
+        "date": "2025-04-06T17:10:18.332149",
+        "filename": "backup_20250406_171018.zip",
+        "size": 6760,
+        "path": "database/backups\\backup_20250406_171018.zip",
+        "created_by": "admin"
+    }
+]

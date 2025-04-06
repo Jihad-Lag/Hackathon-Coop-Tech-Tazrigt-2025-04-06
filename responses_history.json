@@ -1,0 +1,372 @@
+[
+  {
+    "date": "2025-04-05T19:05:31.939894",
+    "username": "admin",
+    "responses": {
+      "G1_Q1": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q2": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q3": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q4": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Oui",
+        "coefficient": 8.0
+      },
+      "G1_Q5": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q6": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q7": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q8": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1_Q9": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1Q1": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Est-ce que vous faite de la publicité, promotion commerciale, la vente personnelle, les relations publiques et le marketing direct?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1Q2": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous une politique de communication ?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G1Q3": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des objectifs de communication?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G1Q4": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous un plan de communication ?",
+        "response": "Non",
+        "coefficient": 8.0
+      },
+      "G1Q5": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports de communication de format variable ex: Panneau Publicitaire?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1Q6": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: Carte visite",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G1Q7": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: brochers",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G1Q8": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des supports clés de communication ex: flyers",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G1Q9": {
+        "group": "G1",
+        "group_title": "Communication",
+        "question": "Avez-vous des comptes dans les sociales médias ?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q1": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous choisi le nom de coopérative qui es facile à mémoriser dans l’esprit des consommateurs ?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q2": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Pensez-vous que le logotype de votre coopérative est un symbole ou une représentation graphique ?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q3": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous chosiez un Logo Flexible qui'il peut s’adapter et être lisible sur tous les supports?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q4": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo de la coopérative est simple & distinctif & illustre spécifiquement les activités et les produits?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q5": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est Logo durable ?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q6": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Est-ce que votre Logo est mémorisable facile de s’en souvenir, de le reconnaître, et de l’associer à la coopérative?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G2Q7": {
+        "group": "G2",
+        "group_title": "La politique de marque",
+        "question": "Avez-vous chosiez une couleur de logo fraiche symbolique de la nature, l’environnement et le bio?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q1": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Est ce que le conditionnement de votre produit permet de Protège le produit)",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q2": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous chosiez Le conditionnement de votre produit pour Faciliter le transport du produit",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q3": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous chosiez Le conditionnement de votre produit pour faciliter l’utilisation d’un produit",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q4": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "est ce que le conditionnement de votre produit permet d'attirer la clientèle + Protèger le produit",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q5": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous chosiez Le conditionnement de votre produit pour mémorise le logo et marque du produit",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q6": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous chosiez la carte d'identité du produit ce form d’étiquète?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G3Q7": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Est ce que L’étiquète de votre produit permet d'informer le consommateur sur les produits, de comparer les produits?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q8": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous chosiez une fiche de communication contenant Un ensemble de mentions obligatoires ou non figurants",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G3Q9": {
+        "group": "G3",
+        "group_title": "Le conditionnement & létiquette",
+        "question": "Avez-vous des étiquettes sur vos produits qui sont autres que le type et le nom de la coopérative?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G4Q1": {
+        "group": "G4",
+        "group_title": "L’emballage",
+        "question": "Avez-vous un emballage pour votre produit?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G4Q2": {
+        "group": "G4",
+        "group_title": "L’emballage",
+        "question": "votre embalage est il adapte a la livraison",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G4Q3": {
+        "group": "G4",
+        "group_title": "L’emballage",
+        "question": "votre embalage repond t il au norme de qualite",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G4Q4": {
+        "group": "G4",
+        "group_title": "L’emballage",
+        "question": "votre embalage comporte t il une fermeture de garantie",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G5Q1": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous des listes des prix concernant les produits alimentaires et cosmétiques",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G5Q2": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous mettre en place une comptabilité analytique pour inclure tous les dépenses",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G5Q3": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "est ce que les prix de votre produit seront un peu élevés par rapport aux celles-ci du souk suite à la qualité différente.",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G5Q4": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "Est que vous essayer d'identifier le prix convenable pour chaque cible",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G5Q5": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "Avez-vous prendre en considération le pouvoir d’achat des gens du village et les gens étrangers pour?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G5Q6": {
+        "group": "G5",
+        "group_title": "La politique du prix",
+        "question": "Est ce que vous prendre en considération l’augmentation de la demande lors des vacances et les fêtes religieuse (RAMADAN, AID AL FITER, AID AL ADEHA…)?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q1": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est ce que vous faite des réductions pour les clients fidèles?",
+        "response": "Oui",
+        "coefficient": 1.0
+      },
+      "G6Q2": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous faite des réduction pour le client qui a achète 3 articles ou plus?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q3": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous avez des carte fidelite",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q4": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "est ce que vous proposer des cadeau pour vos clients",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q5": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous considérez Le siège de la coopérative comme le premier point de vente ou les produits seront disponibles tous au long de la journée?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q6": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est que vous avez distribué vos produits aux plusieurs épiceries locaux?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q7": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous avez déposé des demandes aux supermarchés pour commercialiser vos produits?",
+        "response": "Non",
+        "coefficient": 1.0
+      },
+      "G6Q8": {
+        "group": "G6",
+        "group_title": "Les promotions & Distribution",
+        "question": "Est-ce que vous pensez a augmenter la part de marche par d’ajouter différant produits?",
+        "response": "Oui",
+        "coefficient": 1.0
+      }
+    }
+  }
+]
