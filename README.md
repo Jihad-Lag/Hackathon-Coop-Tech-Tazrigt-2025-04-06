@@ -1,13 +1,13 @@
-# 🧠 Tazrigt - Hackathon Coop-Tech 🛠️  
+# Tazrigt - Hackathon Coop-Tech 🛠
 Built during the **Hackathon Coop-Tech** at **Souss Massa Innovation City**
 
-## 🚀 About the Project  
+## About the Project  
 We participated in the Coop-Tech Hackathon and developed an application focused on **diagnostic data** easily and efficiently.  
 The application was designed with simplicity and usability in mind.  
 
 ✨ We also built a custom Python feature that allows users to add diagnostics dynamically — improving workflow and saving time!  
 
-## 👥 Team Members
+## Team Members
 
 - **Jihad Laglil**  
   [LinkedIn](https://www.linkedin.com/in/jihad-laglil-433182327/)
@@ -21,10 +21,10 @@ The application was designed with simplicity and usability in mind.
 - **Hafsa Timenzay**  
   [LinkedIn](https://www.linkedin.com/in/hafsa-timenzay-698b72293/)
 
-## 🧰 Technologies Used  
-- Python 🐍  
-- HTML / CSS / JavaScript  
-- [Add any other tools or frameworks you used]
+## Technologies Used  
+- Python 
+- Figma
+- Microsoft Office
 
-## 📍 Location  
+## Location  
 📍 Hackathon held at **Souss Massa Innovation City**, Agadir, Morocco 🇲🇦
